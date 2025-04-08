@@ -62,6 +62,8 @@ _(Or any free hadith API you used)_
 
 This project is licensed under the MIT License.
 Feel free to use, modify, and share!
+
+***
 ✨ Author
 
  MR.Abdiladiif Abdisamed
