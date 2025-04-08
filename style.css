@@ -6,8 +6,7 @@
 }
 
 body{
-    /* background graident-ga 2 collor oo kale oo qurxoon iiga dhig */
-
+   
     background: linear-gradient(90deg, #2C2C54, #1E1E2F, #2C2C54);
     height: 100vh;
     display: flex;
