@@ -78,6 +78,16 @@ body{
 /* Responsive */
 
 @media (max-width: 480px) {
+    body{
+        background: linear-gradient(90deg, #2C2C54, #1E1E2F, #2C2C54);
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 50px 100px;
+
+
+    }
     .hadith{
         padding: 50px 100px;
     }
