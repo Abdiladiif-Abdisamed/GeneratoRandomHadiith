@@ -26,7 +26,14 @@ body{
     text-align: center;
     padding: 100px 300px;
 }
-
+.hadithTitle{
+    font-size: 3rem;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 5rem;
+  
+}
 .hadithNumber{
     font-size: 2rem;
     color: #fff;
@@ -35,6 +42,9 @@ body{
 .hadith h1{
     font-size: 2.5rem;
     color: #fff;
+    background-color: #272752;
+    padding:  2rem;
+    border-radius: 5px;
 }
 
 .hadith p{
